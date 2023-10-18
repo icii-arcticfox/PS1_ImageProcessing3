@@ -1,1 +1,18 @@
-{"VSCodeWorkspaceFile":"PS1_ImageProcessing3.code-workspace","ArcticFoxVersion":"0.6.1.274","ProjectName":"PS1_ImageProcessing3","GeneratedLineIdentifier":"<>","VerilogFolders":["../../Code"],"PathToVivadoProject":null,"PathToVitisSrc":null,"Tutorials":null,"PythonAutomationNames":[],"SectionNames":null,"SectionSubTitles":null, "OpenFiles": [ "Code/Sandbox.ipynb" ]}
+{
+    "VSCodeWorkspaceFile": "PS1_ImageProcessing3.code-workspace",
+    "ArcticFoxVersion": "0.6.1.274",
+    "ProjectName": "PS1_ImageProcessing3",
+    "GeneratedLineIdentifier": "<>",
+    "VerilogFolders": [
+        "../../Code"
+    ],
+    "PathToVivadoProject": null,
+    "PathToVitisSrc": null,
+    "Tutorials": null,
+    "OpenFiles": [
+        "Code/Sandbox.ipynb"
+    ],
+    "PythonAutomationNames": [],
+    "SectionNames": null,
+    "SectionSubTitles": null
+}
